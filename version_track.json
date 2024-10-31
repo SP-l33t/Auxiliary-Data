@@ -6,5 +6,9 @@
   "cvd": {
     "main_js": "app.R1la7OT5.js",
     "js_hash": "78a2cfea8665f362d66c06cca3037f40bbd9540a83593057d8b5254574b680c8"
+  },
+  "paws": {
+    "main_js": "main-7cfd392e3607cf8f.js",
+    "js_hash": "5548d07230ebcaa1f526d46aa3ddf6fb43b61f1392901c9950afbc72c4a52394"
   }
 }
