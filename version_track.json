@@ -10,5 +10,9 @@
   "paws": {
     "main_js": "main-7cfd392e3607cf8f.js",
     "js_hash": "5548d07230ebcaa1f526d46aa3ddf6fb43b61f1392901c9950afbc72c4a52394"
+  },
+  "dogiators": {
+    "main_js": "index-CdUOhMsl.js",
+    "js_hash": "716cb3ea7c1ff106e2c7f66859ebe2310a648edb9dc5a20cab786f903013c1fd"
   }
 }
