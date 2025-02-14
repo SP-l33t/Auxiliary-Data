@@ -8,10 +8,10 @@
     "js_hash": "37f6415465c3a15ca54f649c93ecd399274da7d1a1526545642fdc153b0e5171"
   },
   "paws": {
-    "main_js": "index-d13ada5e2dbdf003.js",
-    "main_js_web": "app-6d8c68694ebceab0.js",
-    "js_hash": "eaa523bf75fbf798a15ca4b44e1d1d9c0f78640dbbd32a00c3e7f778cee61ee2",
-    "js_hash_web": "3fbb9fc352b2a6c13d13175242688522043a4ac596d9bea72c99587ea1c6c7e3"
+    "main_js": "index-6dd8df02e7178ce6.js",
+    "js_hash": "6faebf20b45604bac10dd52090a171bc2a5dad74bdb7066980a4e9f8a35a49da",
+    "main_js_web": "app-11a7b6bbc5cc6a8b.js",
+    "js_hash_web": "e335acd387db92bb7c4c81dce09d889d5600d2dc9bf9ee6dcf6041a69d000c2a"
   },
   "dogiators": {
     "main_js": "index-CyXvdOWD.js",
